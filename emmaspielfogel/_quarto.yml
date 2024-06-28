@@ -4,20 +4,29 @@ project:
 
 website:
   title: "Emma Spielfogel"
-  favicon: "media/barchart_icon.png"
+  favicon: /media/barchart_barsonly_transcluscent.png
   navbar:
+    logo: /media/barchart_barsonly_transcluscent.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - works.qmd
+  page-footer:
+    left:
+      - "Copyright Emma Spielfogel 2024"
+    right:
+      - href: https://www.flaticon.com/authors/manshagraphics
+        text: Icons by manshagraphics
 
 format:
   html:
     theme: 
-      light: journal
+      light: lumen
       dark: solar
     css: styles.css
     toc: true
+    toc-expand: true
     page-layout: full
 
 editor: visual

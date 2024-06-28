@@ -1,6 +1,6 @@
 ---
 title: "Emma Spielfogel"
-image: "media/headshot.jpg"
+image: /media/headshot.jpg
 toc: false
 about: 
   template: trestles
@@ -8,27 +8,46 @@ about:
   image-width: 20em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/emma-spielfogel/
+      href: https://www.linkedin.com/in/emmaspielfogel/
+      icon: linkedin
     - text: GitHub
       href: https://github.com/e-spiel
+      icon: github
     - text: Email
       href: mailto:emmaspielfogel@gmail.com
+      icon: envelope
 ---
-        
-Emma Spielfogel is the Senior Research Data & Report Analyst for the California Teachers Study at City of Hope National Medical Center. When not innovating on data platforms, Emma enjoys taking long walks and doing crosswords.
 
+Emma Spielfogel is the Senior Research Data & Report Analyst for the [California Teachers Study](https://www.calteachersstudy.org) at City of Hope National Medical Center. When not innovating new ways to transform and visualize data, Emma enjoys taking long walks and doing crosswords.
+
+::: columns
+::: {.column width="8%"}
+<br> ![](media/graduation-cap-pink.png){width="45px"}
+:::
+::: {.column width="92%"}
 ## Education
+:::
+:::
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+**M.S. in Computer Information Systems, *Database Management and Business Intelligence Concentration*** (anticipated Spring 2026)\
+Boston University \| Boston, MA
 
-Occidental College | Los Angeles, CA
-B.A. in Biology
-B.A. in French Studies
-Minor in Neuroscience
+**B.A. in Biology**, **B.A. in French Studies,** **Minor in Neuroscience\
+**Occidental College \| Los Angeles, CA
 
+::: columns
+::: {.column width="8%"}
+<br> ![](media/working-suit-pink.png){width="45px"}
+:::
+::: {.column width="92%"}
 ## Experience
+:::
+:::
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+**City of Hope National Medical Center**
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+-   Senior Research Data & Report Analyst \| October 2023 - present
+
+-   Research Data Analyst \| August 2020 - September 2023
+
+-   Clinical Research Assistant \| October 2018 - July 2020
