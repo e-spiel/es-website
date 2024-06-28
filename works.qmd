@@ -1,0 +1,31 @@
+---
+title: "Works"
+---
+
+I love to create informative and imaginative data visualizations in my tools of choice: Tableau and R. Below are a few selected visualizations--you can view more at the [California Teachers Study Tableau Public page](https://public.tableau.com/app/profile/california.teachers.study/) and the [Viz of the Month blog series](https://www.calteachersstudy.org/blog/categories/viz-of-the-month), the goal of which is to provide researchers example code and instructions to implement visualizations in R.
+
+## Tableau Public
+
+### Visualization 1
+
+```{=html}
+<div class='tableauPlaceholder' id='viz1719548681401' style='position: relative'><noscript><a href='#'><img alt='Available CTS Data Summary ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaTeachersStudySurveys&#47;AvailableCTSDataSummary&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CaliforniaTeachersStudySurveys&#47;AvailableCTSDataSummary' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaTeachersStudySurveys&#47;AvailableCTSDataSummary&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719548681401');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='920px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='920px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+```
+### Visualization 2 (animation)
+
+```{=html}
+<div class='tableauPlaceholder' id='viz1719602717045' style='position: relative'><noscript><a href='#'><img alt='Living Population Over Time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CT&#47;CTSLivingPopulationOverTime&#47;LivingPopulationOverTime&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CTSLivingPopulationOverTime&#47;LivingPopulationOverTime' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CT&#47;CTSLivingPopulationOverTime&#47;LivingPopulationOverTime&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719602717045');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='920px';vizElement.style.height='707px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='920px';vizElement.style.height='707px';} else { vizElement.style.width='100%';vizElement.style.height='677px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+```
+## ggplot/R-based visualizations
+
+### Visualization 1
+
+[![](media/cancer-frequencies.png){width="645"}](https://www.calteachersstudy.org/post/viz-of-the-month-october-2023)
+
+### Visualization 2
+
+[![](media/birth_month.png){width="645"}](https://www.calteachersstudy.org/post/viz-of-the-month-january-2024)
+
+### Visualization 3
+
+[![](media/cts-teacher-profile.png){width="645"}](https://www.calteachersstudy.org/post/viz-of-the-month-july-2023)

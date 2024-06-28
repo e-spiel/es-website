@@ -18,12 +18,15 @@ about:
       icon: envelope
 ---
 
-Emma Spielfogel is the Senior Research Data & Report Analyst for the [California Teachers Study](https://www.calteachersstudy.org) at City of Hope National Medical Center. When not innovating new ways to transform and visualize data, Emma enjoys taking long walks and doing crosswords.
+# 👋🏻 Hello
+
+I am currently the Senior Research Data & Report Analyst for the [California Teachers Study](https://www.calteachersstudy.org) at City of Hope National Medical Center. When not innovating new ways to transform and visualize data, I enjoy taking long walks in L.A. neighborhoods and doing crosswords.
 
 ::: columns
 ::: {.column width="8%"}
 <br> ![](media/graduation-cap-pink.png){width="45px"}
 :::
+
 ::: {.column width="92%"}
 ## Education
 :::
@@ -39,6 +42,7 @@ Boston University \| Boston, MA
 ::: {.column width="8%"}
 <br> ![](media/working-suit-pink.png){width="45px"}
 :::
+
 ::: {.column width="92%"}
 ## Experience
 :::
