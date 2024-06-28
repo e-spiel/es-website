@@ -1,11 +1,34 @@
 ---
-title: "emmaspielfogel"
+title: "Emma Spielfogel"
+image: "media/headshot.jpg"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/emma-spielfogel/
+    - text: GitHub
+      href: https://github.com/e-spiel
+    - text: Email
+      href: mailto:emmaspielfogel@gmail.com
 ---
+        
+Emma Spielfogel is the Senior Research Data & Report Analyst for the California Teachers Study at City of Hope National Medical Center. When not innovating on data platforms, Emma enjoys taking long walks and doing crosswords.
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
 
-```{r}
-1 + 1
-```
+Occidental College | Los Angeles, CA
+B.A. in Biology
+B.A. in French Studies
+Minor in Neuroscience
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
